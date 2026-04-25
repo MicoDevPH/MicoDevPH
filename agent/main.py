@@ -4,15 +4,28 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from langchain_openai import ChatOpenAI
-from langgraph.prebuilt import create_react_agent
 from langchain_core.messages import HumanMessage, SystemMessage
 
-# Load environment variables
+# Beautiful Logging Imports
+from rich.console import Console
+from rich.panel import Panel
+from rich.logging import RichHandler
+import logging
+from logger import MokuseiLogger
+# --- Setup Jupiter-Themed Logger ---
+console = Console()
+logging.basicConfig(
+    level="INFO",
+    format="%(message)s",
+    datefmt="[%X]",
+    handlers=[RichHandler(rich_tracebacks=True)]
+)
+logger = logging.getLogger("rich")
+
 load_dotenv()
 
 app = FastAPI()
 
-# Enable CORS for React
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -21,7 +34,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize LLM via GitHub Models
 llm = ChatOpenAI(
     model="gpt-4o-mini", 
     openai_api_key=os.getenv("GITHUB_TOKEN"), 
@@ -32,14 +44,6 @@ def load_prompt(filename):
     path = os.path.join("prompt", filename)
     with open(path, "r") as f:
         return f.read()
-    
-# Create the modern agent (using an empty list for tools)
-agent = create_react_agent(llm, tools=[])
-
-@app.get("/")
-def read_root():
-    return {"status": "Agent is online"}
-
 
 class ChatRequest(BaseModel):
     message: str
@@ -47,23 +51,25 @@ class ChatRequest(BaseModel):
 @app.post("/chat")
 async def chat(request: ChatRequest):
     try:
-        print(f"Thinking about: {request.message}")
+        # Use your custom logger methods
+        MokuseiLogger.log_request(request.message)
         
-        # 1. Load your XML prompts
         persona = load_prompt("persona.xml")
         instructions = load_prompt("mokusei_instructions.xml")
         
-        # 2. Build the message list (System + Human)
         messages = [
             SystemMessage(content=f"PERSONA:\n{persona}\n\nINSTRUCTIONS:\n{instructions}"),
             HumanMessage(content=request.message)
         ]
         
-        # 3. Invoke the LLM with the structured messages
+        MokuseiLogger.log_info("Processing atmospheric data...")
+        
         response = llm.invoke(messages)
         
+        MokuseiLogger.log_success("Transmission successful. Data returned to orbit.")
+        
         return {"reply": response.content}
+        
     except Exception as e:
-        print(f"❌ AI Error: {e}")
-        return {"reply": f"Internal Error: {str(e)}"}
-
+        MokuseiLogger.log_error(str(e))
+        return {"reply": "Connection lost to planetary core."}

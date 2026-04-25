@@ -1,54 +1,57 @@
 #!/bin/bash
 
-# --- Colors ---
-GOLD='\033[38;5;220m'
-ORANGE='\033[38;5;208m'
-DARK_ORANGE='\033[38;5;202m'
-CYAN='\033[0;36m'
-BLUE='\033[0;34m'
-GREEN='\033[0;32m'
+# --- Jupiter High-Fidelity Palette ---
+J_CLOUD='\033[38;5;231m'   # Ammonia White
+J_ZONE='\033[38;5;223m'    # Sandy Zone
+J_BELT='\033[38;5;137m'    # Brownish Belt
+J_STORM='\033[38;5;130m'   # Deep Rust
+J_SPOT='\033[38;5;160m'    # Great Red Spot
+CYAN='\033[38;5;51m'
 BOLD='\033[1m'
-NC='\033[0m' # No Color
+NC='\033[0m'
 
-# --- 1. Pre-Boot Sequence (The Chill Version) ---
+# --- 1. Enhanced Jovian Boot Sequence ---
 clear
-echo -e "${ORANGE}[ LOADING ]${NC} Warming up the circuits..."
+echo -e "${J_ZONE}[ SCAN ]${NC} Piercing the Ammonia Clouds..."
 sleep 0.3
-echo -e "${ORANGE}[ LOADING ]${NC} Teaching the AI how to high-five..."
+echo -e "${J_BELT}[ DATA ]${NC} Analyzing Zonal Jet Streams (335 mph)..."
 sleep 0.4
-echo -e "${DARK_ORANGE}[ LOADING ]${NC} Overclocking the vibes..."
-sleep 0.3
-echo -e "${GREEN}[ DONE ]${NC} Logic centers are (mostly) functioning."
-sleep 0.2
-echo -e "${GREEN}[ READY ]${NC} Mokusei is caffeinated and ready."
+echo -e "${J_SPOT}[ WARN ]${NC} Entering the Great Red Spot..."
+
+for i in {1..100}; do 
+    echo -ne "${J_SPOT}🌀 SPINNING STORM... ${i}% ${NC}\r"
+    sleep 0.01
+done
+echo -e "\n${J_CLOUD}[ OK ]${NC} Planetary core reached. Stability: 100%"
 sleep 0.5
 
-# --- 2. The Golden Reveal ---
+# --- 2. The Jupiter Masterpiece ---
 clear
 echo -e "${BOLD}"
-echo -e "${GOLD}  ███╗   ███╗ ██████╗ ██╗  ██╗██╗   ██╗███████╗███████╗██╗"
-echo -e "${GOLD}  ████╗ ████║██╔═══██╗██║ ██╔╝██║   ██║██╔════╝██╔════╝██║"
-echo -e "${ORANGE}  ██╔████╔██║██║   ██║█████╔╝ ██║   ██║███████╗█████╗  ██║"
-echo -e "${ORANGE}  ██║╚██╔╝██║██║   ██║██╔═██╗ ██║   ██║╚════██║██╔══╝  ██║"
-echo -e "${DARK_ORANGE}  ██║ ╚═╝ ██║╚██████╔╝██║  ██╗╚██████╔╝███████║███████╗██║"
-echo -e "${DARK_ORANGE}  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝"
-echo -e "               ${GOLD}⚡ ${BOLD}M O K U S E I   A I ${NC}${GOLD}⚡${NC}"
-echo -e "               ${ORANGE}${BOLD}───── By: ${GOLD}MicoDevPH ${ORANGE}─────${NC}"
-echo -e "${ORANGE}  ──────────────────────────────────────────────────────────${NC}"
+echo -e "${J_CLOUD}  ███╗   ███╗ ██████╗ ██╗  ██╗██╗   ██╗███████╗███████╗██╗"
+echo -e "${J_ZONE}  ████╗ ████║██╔═══██╗██║ ██╔╝██║   ██║██╔════╝██╔════╝██║"
+echo -e "${J_BELT}  ██╔████╔██║██║   ██║█████╔╝ ██║   ██║███████╗█████╗  ██║"
+echo -e "${J_STORM}  ██║╚██╔╝██║██║   ██║██╔═██╗ ██║   ██║╚════██║██╔══╝  ██║"
+echo -e "${J_SPOT}  ██║ ╚═╝ ██║╚██████╔╝██║  ██╗╚██████╔╝███████║███████╗██║"
+echo -e "${J_SPOT}  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝"
+echo -e "               ${J_CLOUD}🪐 ${BOLD}M O K U S E I   A I ${NC}${J_CLOUD}🪐${NC}"
+echo -e "               ${J_STORM}${BOLD}───── By: ${J_CLOUD}MicoDevPH ${J_STORM}─────${NC}"
+echo -e "${J_STORM}  ──────────────────────────────────────────────────────────${NC}"
 
-# --- 3. Status Checks ---
-echo -e "${CYAN}[1/2]${NC} 🔍 Checking Mokusei Core..."
+# --- 3. Planetary Metrics ---
+echo -e "${CYAN}[1/2]${NC} 🛰️  Checking Atmospheric Env..."
 if [ -f .env ]; then
-    echo -e "      ${GREEN}✅ Systems Nominal (.env found)${NC}"
+    echo -e "      ${J_CLOUD}✅ Signals Nominal (.env found)${NC}"
 else
-    echo -e "      ${BOLD}⚠️  Core Offline: .env missing${NC}"
+    echo -e "      ${BOLD}⚠️  Radio Silence: .env missing${NC}"
 fi
 
-echo -e "${CYAN}[2/2]${NC} 🚀 Initializing Neural Link..."
-echo -e "      ${BLUE}Main API:   ${BOLD}http://localhost:8000${NC}"
-echo -e "      ${BLUE}Docs/UI:    ${BOLD}http://localhost:8000/docs${NC}"
+echo -e "${CYAN}[2/2]${NC} ☄️  Igniting Main Engines..."
+echo -e "      ${J_ZONE}Mission Control: ${BOLD}http://localhost:8000${NC}"
+echo -e "      ${J_ZONE}Star Chart:      ${BOLD}https://github.com/MicoDevPH${NC}"
 echo ""
-echo -e "${PURPLE}--- INCOMING DATA STREAM ---${NC}"
+echo -e "${J_BELT}--- RADIOWAVE STREAM ---${NC}"
 
 # --- Execution ---
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload --no-access-log --log-level warning
+
