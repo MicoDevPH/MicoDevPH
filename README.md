@@ -100,6 +100,7 @@ I'm a developer passionate about building impactful projects and solving complex
    <summary><b><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></b></summary>
 
    - My Personal Portfolio powered by Mokusei AI v0.1.0 ***(Ganymede 1.0)***
+  
       ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)
 
    </details>
@@ -109,6 +110,7 @@ I'm a developer passionate about building impactful projects and solving complex
    <summary><b><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></b></summary> 
 
    - Ready to Use Grading System
+  
       ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
 
    </details>
