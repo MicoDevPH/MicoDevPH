@@ -95,7 +95,7 @@ I'm a developer passionate about building impactful projects and solving complex
 ### My Projects <img src="https://www.readmecodegen.com/api/social-icon?name=bookmark&size=12&animation=glow&animationDuration=3.3&color=%23f59e0b" alt="bookmark" />
 
 **Ongoing**
-   <details open>
+   <details>
 
    <summary><b><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></b></summary>
 
@@ -105,7 +105,7 @@ I'm a developer passionate about building impactful projects and solving complex
 
    </details>
 
-   <details open>
+   <details>
 
    <summary><b><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></b></summary> 
 
