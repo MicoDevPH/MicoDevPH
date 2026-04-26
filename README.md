@@ -91,6 +91,20 @@ I'm a developer passionate about building impactful projects and solving complex
 - ☕ **Fuel:** Powered by dark roast coffee and lots of sleep💤.
 
 ---
+
+### My Projects <img src="https://www.readmecodegen.com/api/social-icon?name=bookmark&size=12&animation=glow&animationDuration=3.3&color=%23f59e0b" alt="bookmark" />
+
+**Ongoing**
+- [Personal Portfolio](https://github.com/MicoDevPH/MicoDevPH) - My Personal Portfolio powered by Mokusei AI v0.1.0 ***(Ganymede 1.0)***
+- [Grading System](https://github.com/MicoDevPH/Grading_System) - Ready to Use Grading System
+- [Sangguniang Kabataan - iSKolar Management System](https://github.com/MicoDevPH/SK-IMS) - Management System for Scholars of Brgy. San Antonio, City of San Pedro, Laguna, Philippines
+- [Daily Spot Cafe Web System](https://github.com/MicoDevPH/daily-spot-cafe) - **[COMISSION]**
+- [Mokusei AI](https://github.com/MicoDevPH/mokusei-ai) - Multi-agent AI Framework
+
+**Completed**
+- [Kevin's Express Music Studio Online Reservation System](https://github.com/MicoDevPH/ReservationSystem) - Online Reservation System for Kevin's Express Music Studio
+- 
+---
 <img align="right" src="frontend\src\assets\readme\pikachu.gif" width="200">
 
 ### Find Me Online <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=16&animation=flash&animationDuration=5" alt="link" />
