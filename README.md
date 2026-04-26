@@ -95,13 +95,27 @@ I'm a developer passionate about building impactful projects and solving complex
 ### My Projects <img src="https://www.readmecodegen.com/api/social-icon?name=bookmark&size=12&animation=glow&animationDuration=3.3&color=%23f59e0b" alt="bookmark" />
 
 **Ongoing**
-- [**Personal Portfolio**](https://github.com/MicoDevPH/MicoDevPH) - My Personal Portfolio powered by Mokusei AI v0.1.0 ***(Ganymede 1.0)***
-  
-  ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)
+   <details open>
 
-- [**Grading System**](https://github.com/MicoDevPH/Grading_System) - Ready to Use Grading System
-  
-  ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+   <summary><b><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></b></summary>
+
+   - My Personal Portfolio powered by Mokusei AI v0.1.0 ***(Ganymede 1.0)***
+   <b>
+      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)
+   </b>
+
+   </details>
+
+   <details open>
+
+   <summary><b><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></b></summary> 
+
+   - Ready to Use Grading System
+   <b>
+      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+   </b>
+
+   </details>
 
 - [**Sangguniang Kabataan - iSKolar Management System**](https://github.com/MicoDevPH/SK-IMS) - Management System for Scholars of Brgy. San Antonio, City of San Pedro, Laguna, Philippines
   
