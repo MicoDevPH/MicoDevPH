@@ -94,7 +94,9 @@ I'm a developer passionate about building impactful projects and solving complex
 
 ### My Projects <img src="https://www.readmecodegen.com/api/social-icon?name=bookmark&size=12&animation=glow&animationDuration=3.3&color=%23f59e0b" alt="bookmark" />
 
-**Ongoing**
+
+**ONGOING**
+
    <details>
 
    <summary><b><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></b></summary>
@@ -115,23 +117,47 @@ I'm a developer passionate about building impactful projects and solving complex
 
    </details>
 
-- [**Sangguniang Kabataan - iSKolar Management System**](https://github.com/MicoDevPH/SK-IMS) - Management System for Scholars of Brgy. San Antonio, City of San Pedro, Laguna, Philippines
-  
-  ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+   <details>
 
-- [**Daily Spot Cafe Web System**](https://github.com/MicoDevPH/daily-spot-cafe) - (Comission) Ecommerce Platform for Daily Spot Cafe
-  
-  ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+   <summary><b><a href="https://github.com/MicoDevPH/SK-IMS">Sangguniang Kabataan - iSKolar Management System</a></b></summary>
 
-- [**Mokusei AI**](https://github.com/MicoDevPH/mokusei-ai) - Multi-agent AI Framework
-  
-  ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=%233776AB) ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=%23009688) ![Static Badge](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=black&color=%237FC8FF)
+   - Management System for Scholars of Brgy. San Antonio, City of San Pedro, Laguna, Philippines
 
+      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
 
-**Completed**
-- [**Kevin's Express Music Studio Online Reservation System**](https://github.com/MicoDevPH/ReservationSystem) - Online Reservation System for Kevin's Express Music Studio
+   </details>
+
+   <details>
+
+   <summary><b><a href="https://github.com/MicoDevPH/daily-spot-cafe">Daily Spot Cafe WebSystem</a></b></summary>
+
+   - (Comission) Ecommerce Platform for Daily Spot Cafe
   
-   ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+      ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+
+   </details>
+
+   <details>
+
+   <summary><b><a href="https://github.com/MicoDevPH/mokusei-ai">Mokusei AI</a></b></summary>
+
+   - Multi-agent AI Framework powered by Jupiter's Moon with different personality and expertise.
+  
+      ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=%233776AB) ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=%23009688) ![Static Badge](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=black&color=%237FC8FF)
+
+   </details>
+
+<br>**COMPLETED**
+
+   <details>
+
+   <summary><b><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio Online Reservation System</a></b></summary>
+   
+   - Online Reservation System for Kevin's Express Music Studio
+  
+      ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
+
+   </details>
   
 ---
 <img align="right" src="frontend\src\assets\readme\pikachu.gif" width="200">
