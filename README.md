@@ -164,9 +164,9 @@ I'm a developer passionate about building impactful projects and solving complex
 
 ### Find Me Online <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=16&animation=flash&animationDuration=5" alt="link" />
 
-- <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="github" />&nbsp;**GitHub:** https://github.com/CodeMico
+- <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="github" />&nbsp;**GitHub:** https://github.com/MicoDevPH
 - <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16&animation=flash&animationDuration=5" alt="linkedin" />&nbsp;**LinkedIn:** https://www.linkedin.com/in/mico-nakase-0835b1391
-- <img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="tiktok" />&nbsp;**Tiktok:** https://www.tiktok.com/@codewithmico
+- <img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="tiktok" />&nbsp;**Tiktok:** https://www.tiktok.com/@micodevph
 ---
 
 <div align="center">
