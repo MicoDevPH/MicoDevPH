@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="frontend\src\assets\readme\Main_Banner.gif" width="100%" alt="Main Banner">
+   <img src="Main_Banner.gif" width="100%" alt="Main Banner">
 
 </p>
 
@@ -78,7 +78,7 @@ I’m a developer who enjoys turning ideas into code—clean interfaces, solid b
 <br/><br/>
 
 ---
-<img align="right" src="frontend\src\assets\readme\cubone.gif" width="250">
+<img align="right" src="cubone.gif" width="250">
 
 ### About Me <img src="https://www.readmecodegen.com/api/social-icon?name=info&size=12&animation=glow&animationDuration=3.3" alt="info" />
 
@@ -160,7 +160,7 @@ I'm a developer passionate about building impactful projects and solving complex
    </details>
   
 ---
-<img align="right" src="frontend\src\assets\readme\pikachu.gif" width="200">
+<img align="right" src="pikachu.gif" width="200">
 
 ### Find Me Online <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=16&animation=flash&animationDuration=5" alt="link" />
 
