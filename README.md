@@ -97,27 +97,27 @@ I'm a developer passionate about building impactful projects and solving complex
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></td>
-    <td>Personal Portfolio powered by Mokusei AI v0.1.0</td>
+    <td>Personal Portfolio powered by Mokusei AI v0.1.0 (Ganymede 1.0)</td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></td>
-    <td>Ready-to-use grading system</td>
+    <td>Ready-to-use automated grading system with student records and grade computation</td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/SK-IMS">SK-IMS</a></td>
-    <td>Scholar management system for Brgy. San Antonio</td>
+    <td>Scholar management system with financial tracking and report generation for Brgy. San Antonio</td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/daily-spot-cafe">Daily Spot Cafe</a></td>
-    <td>E-commerce platform (commission)</td>
+    <td>Commissioned e-commerce platform with ordering system and menu management for Daily Spot Cafe</td>
     <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/mokusei-ai">Mokusei AI</a></td>
-    <td>Multi-agent AI framework</td>
+    <td>Multi-agent AI framework with distinct personalities and expertise, powered by Jupiter's Moon</td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /></td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ I'm a developer passionate about building impactful projects and solving complex
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio</a></td>
-    <td>Online reservation system</td>
+    <td>Online reservation system with scheduling, client management, and service tracking for Kevin's Express Music Studio</td>
     <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
   </tr>
 </table>
