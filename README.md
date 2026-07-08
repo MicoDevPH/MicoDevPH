@@ -33,7 +33,9 @@ I'm a developer passionate about building impactful projects and solving complex
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 <br/>
@@ -45,7 +47,6 @@ I'm a developer passionate about building impactful projects and solving complex
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
@@ -83,11 +84,11 @@ I'm a developer passionate about building impactful projects and solving complex
 
 **ONGOING**
 
-<table width="100%">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th width="25%">Project</th>
-    <th width="45%">Description</th>
-    <th width="30%">Stack</th>
+    <th style="width: 25%;">Project</th>
+    <th style="width: 45%;">Description</th>
+    <th style="width: 30%;">Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></td>
@@ -118,11 +119,11 @@ I'm a developer passionate about building impactful projects and solving complex
 
 **COMPLETED**
 
-<table width="100%">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th width="25%">Project</th>
-    <th width="45%">Description</th>
-    <th width="30%">Stack</th>
+    <th style="width: 25%;">Project</th>
+    <th style="width: 45%;">Description</th>
+    <th style="width: 30%;">Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio</a></td>
@@ -137,11 +138,11 @@ I'm a developer passionate about building impactful projects and solving complex
 
 Custom AI agent skills I've built and maintained for autonomous codebase workflows:
 
-<table width="100%">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th width="20%">Skill</th>
-    <th width="15%">Type</th>
-    <th width="65%">Description</th>
+    <th style="width: 20%;">Skill</th>
+    <th style="width: 15%;">Type</th>
+    <th style="width: 65%;">Description</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/tailwind-v4-grader">tailwind-v4-grader</a></td>
