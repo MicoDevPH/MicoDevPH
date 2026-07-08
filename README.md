@@ -83,29 +83,72 @@ I'm a developer passionate about building impactful projects and solving complex
 
 **ONGOING**
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Personal Portfolio](https://github.com/MicoDevPH/MicoDevPH) | Personal Portfolio powered by Mokusei AI v0.1.0 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-| [Grading System](https://github.com/MicoDevPH/Grading_System) | Ready-to-use grading system | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| [SK-IMS](https://github.com/MicoDevPH/SK-IMS) | Scholar management system for Brgy. San Antonio | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| [Daily Spot Cafe](https://github.com/MicoDevPH/daily-spot-cafe) | E-commerce platform (commission) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| [Mokusei AI](https://github.com/MicoDevPH/mokusei-ai) | Multi-agent AI framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+<table width="100%">
+  <tr>
+    <th width="25%">Project</th>
+    <th width="45%">Description</th>
+    <th width="30%">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></td>
+    <td>Personal Portfolio powered by Mokusei AI v0.1.0</td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></td>
+    <td>Ready-to-use grading system</td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/SK-IMS">SK-IMS</a></td>
+    <td>Scholar management system for Brgy. San Antonio</td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/daily-spot-cafe">Daily Spot Cafe</a></td>
+    <td>E-commerce platform (commission)</td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/mokusei-ai">Mokusei AI</a></td>
+    <td>Multi-agent AI framework</td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /></td>
+  </tr>
+</table>
 
 **COMPLETED**
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Kevin's Express Music Studio](https://github.com/MicoDevPH/ReservationSystem) | Online reservation system | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+<table width="100%">
+  <tr>
+    <th width="25%">Project</th>
+    <th width="45%">Description</th>
+    <th width="30%">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio</a></td>
+    <td>Online reservation system</td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /></td>
+  </tr>
+</table>
 
 ---
 
 ### AI Agent Skills
 
-Custom AI agent skills I've built and maintain for autonomous codebase workflows:
+Custom AI agent skills I've built and maintained for autonomous codebase workflows:
 
-| Skill | Type | Description |
-|-------|------|-------------|
-| [tailwind-v4-grader](https://github.com/MicoDevPH/tailwind-v4-grader) | Auditor | Audits Tailwind v4 projects against best practices, produces a scored report card with prioritized improvement plan |
+<table width="100%">
+  <tr>
+    <th width="20%">Skill</th>
+    <th width="15%">Type</th>
+    <th width="65%">Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MicoDevPH/tailwind-v4-grader">tailwind-v4-grader</a></td>
+    <td>Auditor</td>
+    <td>Audits Tailwind v4 projects against best practices, produces a scored report card with prioritized improvement plan</td>
+  </tr>
+</table>
 
 ---
 
