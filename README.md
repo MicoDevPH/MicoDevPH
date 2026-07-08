@@ -1,176 +1,125 @@
 <p align="center">
    <img src="Main_Banner.gif" width="100%" alt="Main Banner">
-
 </p>
 
 ---
-
-<h1 align="center">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=quoteLeft&size=24&color=%2319d016" alt="quoteLeft" /> 
-      こんにちは! I'm Mico L. Nakase 
-   <img src="https://www.readmecodegen.com/api/social-icon?name=quoteRight&size=24&color=%2319d016" alt="quoteRight" />
-</h1>
 
 <p align="center">
-<strong>4th Year BSIT Student | Intern at Prosperna</strong><br/><br/>
-I’m a developer who enjoys turning ideas into code—clean interfaces, solid backends, and tools that are pleasant to maintain. This profile is a living snapshot of what I’m exploring and building.
+  <strong>Mico L. Nakase</strong> — <em>4th Year BSIT · Former Intern at Prosperna</em><br/>
+  Turning ideas into code — clean interfaces, solid backends, maintainable tools.
 </p>
 
 ---
 
-<h1 align="center">Technologies & Frameworks</h1>
-<h3 align="center"><strong>FRONT END</strong></h3>
-<div align="center">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96" alt="html5" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96" alt="css3" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=96" alt="bootstrap" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=96" alt="react" />
-</div>
-
-<br/><br/>
-
-<h3 align="center"><strong>BACK END</strong></h3>
-<div align="center">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=96" alt="java" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=96" alt="php" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96" alt="javascript" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96" alt="python" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=96" alt="laravel" />
-</div>
-
-<br/><br/>
-
-<h3 align="center"><strong>DATABASE</strong></h3>
-<div align="center">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=96" alt="mysql" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96" alt="postgresql" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96" alt="mongodb" />
-</div>
-
-<br/><br/>
-
-<h3 align="center"><strong>TOOLS & VERSION CONTROL</strong></h3>
-<div align="center">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" alt="github" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96" alt="git" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=96" alt="postman" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=sonarqubecloud&size=96" alt="sonarqubecloud" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96" alt="composer" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=npm&size=96" alt="npm" />
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.readmecodegen.com/api/social-icon?name=eclipseide&size=96" alt="eclipseide" />
-</div>
-
-<br/><br/>
-
----
 <img align="right" src="cubone.gif" width="250">
 
-### About Me <img src="https://www.readmecodegen.com/api/social-icon?name=info&size=12&animation=glow&animationDuration=3.3" alt="info" />
+### About Me
 
-I'm a developer passionate about building impactful projects and solving complex problems. When I'm not at my desk, you’ll likely find me making and listening to music.
+I'm a developer passionate about building impactful projects and solving complex problems. When I'm not at my desk, I'm usually making music, playing instruments, or grinding at Volleyball, Basketball, and Chess.
 
-- ⚡ **Fun fact:** I can solve Rubik's Cube under 40 seconds.
-- 🎸 **Hobbies:** When I'm not coding, I'm usually playing instruments and playing games.
-- 🏅 **Sports:** *Volleyball🏐*, *Basketball🏀* & *Chess♟️*
-- 🎵 **Favorite Music Genre:** *Punk Rock* or *Alternative Rock*.
-- ☕ **Fuel:** Powered by dark roast coffee and lots of sleep💤.
+- ⚡ Rubik's Cube under 40 seconds
+- 🎵 Favorite genre: Punk Rock / Alternative Rock
+- ☕ Fuel: Dark roast coffee
 
 ---
 
-### My Projects <img src="https://www.readmecodegen.com/api/social-icon?name=bookmark&size=12&animation=glow&animationDuration=3.3&color=%23f59e0b" alt="bookmark" />
+### Technologies & Frameworks
 
+<p align="center">
+  <strong>FRONT END</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>BACK END</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>DATABASE</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>AI & DEVELOPMENT TOOLS</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenCode-3B82F6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJMOCA2aDhaIi8+PHBhdGggZD0iTTQgMTRsMi00IDIgNCIvPjxwYXRoIGQ9Ik0xNiAxNGwyLTQgMiA0Ii8+PHBhdGggZD0iTTQgMTZsNCA0aDhsNC00Ii8+PC9zdmc+&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDNDNyAyIDQgNiA0IDExYzAgNCAzIDggNSAxMCAxIDIgMiAzIDMtMyAxLTEgMi0zIDMtNSAxLTIgMy02IDMtMTAgMC01LTMtOS04LTEweiIvPjxwYXRoIGQ9Ik04IDExYzAgMyAyIDUgNCA1IDItMSA0LTMgNC01IDAtMy0yLTUtNC01LTIgMS00IDMtNCA1eiIvPjwvc3ZnPg==&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Codex-10B981?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlsaW5lIHBvaW50cz0iMTYgMyAyMSA4IDggMjEiLz48cG9seWxpbmUgcG9pbnRzPSI0IDggOCA0IDE2IDEyIi8+PC9zdmc+&logoColor=white" alt="Codex" />
+</p>
+
+<br/>
+
+---
+
+### My Projects
 
 **ONGOING**
 
-   <details>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Personal Portfolio](https://github.com/MicoDevPH/MicoDevPH) | Personal Portfolio powered by Mokusei AI v0.1.0 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| [Grading System](https://github.com/MicoDevPH/Grading_System) | Ready-to-use grading system | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [SK-IMS](https://github.com/MicoDevPH/SK-IMS) | Scholar management system for Brgy. San Antonio | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [Daily Spot Cafe](https://github.com/MicoDevPH/daily-spot-cafe) | E-commerce platform (commission) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| [Mokusei AI](https://github.com/MicoDevPH/mokusei-ai) | Multi-agent AI framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
 
-   <summary><b><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></b></summary>
+**COMPLETED**
 
-   - My Personal Portfolio powered by Mokusei AI v0.1.0 ***(Ganymede 1.0)***
-  
-      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Kevin's Express Music Studio](https://github.com/MicoDevPH/ReservationSystem) | Online reservation system | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
 
-   </details>
-
-   <details>
-
-   <summary><b><a href="https://github.com/MicoDevPH/Grading_System">Grading System</a></b></summary> 
-
-   - Ready to Use Grading System
-  
-      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
-
-   </details>
-
-   <details>
-
-   <summary><b><a href="https://github.com/MicoDevPH/SK-IMS">Sangguniang Kabataan - iSKolar Management System</a></b></summary>
-
-   - Management System for Scholars of Brgy. San Antonio, City of San Pedro, Laguna, Philippines
-
-      ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
-
-   </details>
-
-   <details>
-
-   <summary><b><a href="https://github.com/MicoDevPH/daily-spot-cafe">Daily Spot Cafe WebSystem</a></b></summary>
-
-   - (Comission) Ecommerce Platform for Daily Spot Cafe
-  
-      ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
-
-   </details>
-
-   <details>
-
-   <summary><b><a href="https://github.com/MicoDevPH/mokusei-ai">Mokusei AI</a></b></summary>
-
-   - Multi-agent AI Framework powered by Jupiter's Moon with different personality and expertise.
-  
-      ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=%233776AB) ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=%23009688) ![Static Badge](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=black&color=%237FC8FF)
-
-   </details>
-
-<br>**COMPLETED**
-
-   <details>
-
-   <summary><b><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio Online Reservation System</a></b></summary>
-   
-   - Online Reservation System for Kevin's Express Music Studio
-  
-      ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23777BB4) ![Static Badge](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
-
-   </details>
-  
 ---
+
+### AI Agent Skills
+
+Custom AI agent skills I've built and maintain for autonomous codebase workflows:
+
+| Skill | Type | Description |
+|-------|------|-------------|
+| [tailwind-v4-grader](https://github.com/MicoDevPH/tailwind-v4-grader) | Auditor | Audits Tailwind v4 projects against best practices, produces a scored report card with prioritized improvement plan |
+
+---
+
 <img align="right" src="pikachu.gif" width="200">
 
-### Find Me Online <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=16&animation=flash&animationDuration=5" alt="link" />
+### Find Me Online
 
-- <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="github" />&nbsp;**GitHub:** https://github.com/MicoDevPH
-- <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16&animation=flash&animationDuration=5" alt="linkedin" />&nbsp;**LinkedIn:** https://www.linkedin.com/in/mico-nakase-0835b1391
-- <img src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=16&animation=flash&animationDuration=5&color=%23ffffff" alt="tiktok" />&nbsp;**Tiktok:** https://www.tiktok.com/@micodevph
+- **Portfolio:** [miconakase.vercel.app](https://miconakase.vercel.app/)
+- **GitHub:** [github.com/MicoDevPH](https://github.com/MicoDevPH)
+- **LinkedIn:** [linkedin.com/in/mico-nakase](https://www.linkedin.com/in/mico-nakase-0835b1391)
+- **TikTok:** [tiktok.com/@micodevph](https://www.tiktok.com/@micodevph)
+
 ---
 
 <div align="center">
-
-  **© 2026 Mico Nakase. All rights reserved.**
-
+  © 2026 Mico Nakase
 </div>
