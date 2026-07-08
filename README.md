@@ -84,11 +84,16 @@ I'm a developer passionate about building impactful projects and solving complex
 
 **ONGOING**
 
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%">
+  <colgroup>
+    <col width="25%">
+    <col width="45%">
+    <col width="30%">
+  </colgroup>
   <tr>
-    <th style="width: 25%;">Project</th>
-    <th style="width: 45%;">Description</th>
-    <th style="width: 30%;">Stack</th>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/MicoDevPH">Personal Portfolio</a></td>
@@ -119,11 +124,16 @@ I'm a developer passionate about building impactful projects and solving complex
 
 **COMPLETED**
 
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%">
+  <colgroup>
+    <col width="25%">
+    <col width="45%">
+    <col width="30%">
+  </colgroup>
   <tr>
-    <th style="width: 25%;">Project</th>
-    <th style="width: 45%;">Description</th>
-    <th style="width: 30%;">Stack</th>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/ReservationSystem">Kevin's Express Music Studio</a></td>
@@ -138,11 +148,16 @@ I'm a developer passionate about building impactful projects and solving complex
 
 Custom AI agent skills I've built and maintained for autonomous codebase workflows:
 
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%">
+  <colgroup>
+    <col width="20%">
+    <col width="15%">
+    <col width="65%">
+  </colgroup>
   <tr>
-    <th style="width: 20%;">Skill</th>
-    <th style="width: 15%;">Type</th>
-    <th style="width: 65%;">Description</th>
+    <th>Skill</th>
+    <th>Type</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td><a href="https://github.com/MicoDevPH/tailwind-v4-grader">tailwind-v4-grader</a></td>
