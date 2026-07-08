@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicoDevPH&amp;show_icons=true&amp;theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicoDevPH&amp;theme=dark" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoDevPH&amp;layout=compact&amp;theme=dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicoDevPH&amp;theme=dark" alt="Top Langs" />
 </p>
 
 ---
