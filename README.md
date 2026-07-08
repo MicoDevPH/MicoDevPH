@@ -9,6 +9,12 @@
   Turning ideas into code — clean interfaces, solid backends, maintainable tools.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicoDevPH&show_icons=true&theme=dark" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoDevPH&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
 ---
 
 <img align="right" src="cubone.gif" width="250">
